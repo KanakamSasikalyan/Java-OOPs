@@ -8,10 +8,10 @@ Object-oriented programming System([OOPs](https://beginnersbook.com/2013/04/oops
 ### What is an Object
 ### What is a class
 ### Constructor in Java
-### Object Oriented Programming Features
-#### --------Abstraction
-#### --------Encapsulation
-#### --------Inheritance
-#### --------Polymorphism
+-  Object Oriented Programming Features
+  -  Abstraction
+  -  Encapsulation
+  -  Inheritance
+  -  Polymorphism
 ### Abstract Class and Methods
 ### Interfaces in Java
