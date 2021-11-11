@@ -21,5 +21,7 @@ Object-oriented programming System([OOPs](https://beginnersbook.com/2013/04/oops
 What is an Object
 OOPs Concepts Object Class
 Object: is a bundle of data and its behaviour(often known as methods).
-![image](https://user-images.githubusercontent.com/67740644/141332537-7fd72b5a-b0ce-4679-ba09-3542ff50b887.png)
+
+## Object     ----instance of----> Class 
+
 Objects have two characteristics: They have states and behaviors.
