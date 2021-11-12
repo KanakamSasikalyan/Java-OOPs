@@ -5,23 +5,25 @@ Object-oriented programming System([OOPs](https://beginnersbook.com/2013/04/oops
 
 ## OOPs Concepts – Table of Contents :
 
-### What is an Object
-### What is a class
-### Constructor in Java
-### Object Oriented Programming Features
-  -  Abstraction
-  -  Encapsulation
-  -  Inheritance
-  -  Polymorphism
-### Abstract Class and Methods
-### Interfaces in Java
-
-
-## What is an Object
-What is an Object
-OOPs Concepts Object Class
-Object: is a bundle of data and its behaviour(often known as methods).
-
-## Object     ----instance of----> Class 
-
-Objects have two characteristics: They have states and behaviors.
+- **Constructor in Java**
+- **Static keyword in Java**
+- **Java Inheritance with example**
+- **Types of inheritance in Java**
+- **Aggregation in Java**
+- **Association in Java**
+- **Super Keyword in Java**
+- **Method overloading in Java**
+- **Method overriding in Java**
+- **Java – Method Overloading vs Method Overriding**
+- **Polymorphism in Java**
+- **Types of polymorphism in Java**
+- **Static and dynamic binding**
+- **Abstract class in Java**
+- **Java Abstract method with example**
+- **Interface in Java**
+- **Java – Abstract class vs interface**
+- **Java Encapsulation with example**
+- **Java Packages with examples**
+- **Access modifiers in Java**
+- **Garbage Collection in Java**
+- **final keyword**
