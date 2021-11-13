@@ -1,3 +1,7 @@
+# Stauts of Repo : 
+![image](https://user-images.githubusercontent.com/67740644/141652483-cab53517-db91-4857-9ab5-ac822ebbade1.png)
+
+
 # Java-OOPs
 ![image](https://user-images.githubusercontent.com/67740644/141652150-a1d0e14e-fd0f-42b1-af4c-291fe90d1035.png)
 
