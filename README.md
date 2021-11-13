@@ -28,3 +28,7 @@ Object-oriented programming System([OOPs](https://beginnersbook.com/2013/04/oops
 - **Access modifiers in Java**
 - **Garbage Collection in Java**
 - **final keyword**
+
+## Object-Oriented Paradigm Java
+![image](https://user-images.githubusercontent.com/67740644/141652225-9d0b75fb-97d3-492a-aeab-fea3add82038.png)
+
