@@ -1,6 +1,5 @@
-# Stauts of Repo : 
-![image](https://user-images.githubusercontent.com/67740644/141652483-cab53517-db91-4857-9ab5-ac822ebbade1.png)
-
+# Status of Repo : 
+![image](https://user-images.githubusercontent.com/67740644/141652543-0dba4e83-c289-4806-a7a4-44466df47c64.png)
 
 # Java-OOPs
 ![image](https://user-images.githubusercontent.com/67740644/141652150-a1d0e14e-fd0f-42b1-af4c-291fe90d1035.png)
@@ -34,7 +33,6 @@ Object-oriented programming System([OOPs](https://beginnersbook.com/2013/04/oops
 - **final keyword**
 
 ## Object-Oriented Paradigm Java
-
 ![image](https://user-images.githubusercontent.com/67740644/141652244-5888c673-8b6a-40d6-b58c-03170a9a5808.png)
 
 ## Oops! Java, 🎊🎉🎈Happy Learning🎈🎉🎊
