@@ -6,6 +6,8 @@
 ## ✔Object Oriented Programming Paradigm(OOPs)
 Object-oriented programming System([OOPs](https://beginnersbook.com/2013/04/oops-concepts/)) is a programming paradigm based on the concept of “objects” that contain data and methods. The primary purpose of object-oriented programming is to increase the flexibility and maintainability of programs. Object oriented programming brings together data and its behaviour(methods) in a single location(object) makes it easier to understand how a program works.
 
+![image](https://user-images.githubusercontent.com/67740644/141665424-cd093d3f-00fe-40ae-b56b-9d047c0b5d60.png)
+
 ## ✔OOPs Concepts – Table of Contents
 
 - [**Constructor in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Constructors)
@@ -29,9 +31,6 @@ Object-oriented programming System([OOPs](https://beginnersbook.com/2013/04/oops
 - **Access modifiers in Java**
 - **Garbage Collection in Java**
 - **final keyword**
-
-## ✔Object-Oriented Paradigm Java
-![image](https://user-images.githubusercontent.com/67740644/141652244-5888c673-8b6a-40d6-b58c-03170a9a5808.png)
 
 ## ✔Oops! Java ✨Happy Learning!✨
 ![image](https://user-images.githubusercontent.com/67740644/141652359-e7da357c-2ca1-4c42-8f0c-7aa35ba57a20.png)
