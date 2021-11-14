@@ -26,7 +26,7 @@ add(float, int)
 </pre>
 
 ## ⚠Note
-- Invalid case of method overloading:
+Invalid case of method overloading:
 When I say argument list, I am not talking about return type of the method, for example if two methods have same name, same parameters and have different return type, then this is not a valid method overloading example. This will throw compilation error.
 <pre>
 int add(int, int)
