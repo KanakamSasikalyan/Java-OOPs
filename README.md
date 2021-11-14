@@ -9,7 +9,7 @@ Object-oriented programming System([OOPs](https://beginnersbook.com/2013/04/oops
 
 ## ✔OOPs Concepts – Table of Contents
 
-- **Constructor in Java**
+- [**Constructor in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Constructors)
 - **Static keyword in Java**
 - **Java Inheritance with example**
 - **Types of inheritance in Java**
