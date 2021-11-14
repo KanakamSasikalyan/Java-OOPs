@@ -8,29 +8,30 @@ let’s get back to the point, when I say argument list it means the parameters 
 In order to overload a method, the argument lists of the methods must differ in either of these:
 1.Number of parameters.
 For example: This is a valid case of overloading
-
+<pre>
 add(int, int)
 add(int, int, int)
-
+</pre>
 2. Data type of parameters.
 For example:
-
+<pre>
 add(int, int)
 add(int, float)
-
+</pre>
 3. Sequence of Data type of parameters.
 For example:
-
+<pre>
 add(int, float)
 add(float, int)
+</pre>
 
 ## Note ⚠
 - Invalid case of method overloading:
 When I say argument list, I am not talking about return type of the method, for example if two methods have same name, same parameters and have different return type, then this is not a valid method overloading example. This will throw compilation error.
-
+<pre>
 int add(int, int)
 float add(int, int)
-Method overloading is an example of Static Polymorphism. We will discuss polymorphism and types of it in a separate tutorial.
+</pre>
 
 ## ✔Points to Note:
 1. Static Polymorphism is also known as compile time binding or early binding.
