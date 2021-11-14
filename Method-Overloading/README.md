@@ -12,14 +12,12 @@ For example: This is a valid case of overloading
 add(int, int)
 add(int, int, int)
 </pre>
-2. Data type of parameters.<br/>
-For example:
+2. Data type of parameters.
 <pre>
 add(int, int)
 add(int, float)
 </pre>
-3. Sequence of Data type of parameters.<br/>
-For example:
+3. Sequence of Data type of parameters.
 <pre>
 add(int, float)
 add(float, int)
