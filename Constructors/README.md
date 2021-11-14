@@ -1,5 +1,5 @@
 ## Constructor in Java
-![image](https://user-images.githubusercontent.com/67740644/141668793-b4a8cbfd-5065-4def-adf5-eb1758652d96.png)
+![image](https://user-images.githubusercontent.com/67740644/141668934-178a17f9-73f0-4193-829f-664e9ba605de.png)
 
 Constructor is a block of code that initializes the newly created object. A constructor resembles an instance method in java but it’s not a method as it doesn’t have a return type. In short constructor and method are different(More on this at the end of this guide). People often refer constructor as special type of method in Java.
 
