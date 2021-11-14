@@ -11,8 +11,7 @@ Object-oriented programming System([OOPs](https://beginnersbook.com/2013/04/oops
 
 - [**Constructor in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Constructors)
 - **Static keyword in Java**
-- **Java Inheritance with example**
-- **Types of inheritance in Java**
+- [**Java Inheritance**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Inheritance)
 - **Aggregation in Java**
 - [**Association in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Association)
 - **Super Keyword in Java**
