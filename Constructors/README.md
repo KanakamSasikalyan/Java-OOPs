@@ -39,6 +39,7 @@ Constructor with no arguments is known as no-arg constructor. The signature is s
 - Although you may see some people claim that that default and no-arg constructor is same but in fact they are not, even if you write public Demo() { } in your class Demo it cannot be called default constructor since you have written the code of it.
 
 ## Example: no-arg constructor
+<pre>
 class Demo
 {
      public Demo()
@@ -49,6 +50,7 @@ class Demo
     	 new Demo();
      }
 }
+</pre>
 
 **Output**:
 This is a no argument constructor
