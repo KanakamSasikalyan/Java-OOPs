@@ -1,4 +1,6 @@
-## Super KeyWord
+## Super KeyWord in Java
+![image](https://user-images.githubusercontent.com/67740644/141668967-f51cc966-6501-4394-be87-eacd4b7173c0.png)
+
 The super keyword refers to the objects of immediate parent class. Before learning super keyword you must have the knowledge of [**inheritance**] in Java.
 
 ![usage-of-java-super](https://user-images.githubusercontent.com/67740644/141668277-c8efc384-cff0-40d8-9591-926b91c272e7.jpg)
