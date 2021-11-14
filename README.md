@@ -1,5 +1,6 @@
 ## ✔Status of Repo 👀
-![image](https://user-images.githubusercontent.com/67740644/141652543-0dba4e83-c289-4806-a7a4-44466df47c64.png)
+<!--[image](https://user-images.githubusercontent.com/67740644/141652543-0dba4e83-c289-4806-a7a4-44466df47c64.png)-->
+![image](https://user-images.githubusercontent.com/67740644/141665511-8e0901eb-9184-43f7-94f6-3b9a05a549cb.png)
 
 ![image](https://user-images.githubusercontent.com/67740644/141665333-50841bcc-a09b-43a0-95f5-648378bd9e2e.png)
 
