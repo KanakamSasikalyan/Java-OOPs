@@ -24,7 +24,7 @@ The **new keyword** here creates the object of class MyClass and invokes the con
 
 There are three types of constructors: Default, No-arg constructor and Parameterized.
 types of constructor
-![types_of_constructor](https://user-images.githubusercontent.com/67740644/141668669-7e284d71-6c43-4872-a410-00a8bc4229b7.jpg)
+![image](https://user-images.githubusercontent.com/67740644/141668913-8cc675f6-d2bf-492a-9317-cb911005a4ce.png)
 
 ## Default constructor
 
