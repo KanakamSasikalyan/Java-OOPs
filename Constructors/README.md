@@ -39,7 +39,7 @@ Constructor with no arguments is known as no-arg constructor. The signature is s
 - Although you may see some people claim that that default and no-arg constructor is same but in fact they are not, even if you write public Demo() { } in your class Demo it cannot be called default constructor since you have written the code of it.
 
 ## Example: no-arg constructor
-**class Demo
+class Demo
 {
      public Demo()
      {
@@ -48,10 +48,10 @@ Constructor with no arguments is known as no-arg constructor. The signature is s
      public static void main(String args[]) {
     	 new Demo();
      }
-}**
+}
 
-**Output:
-This is a no argument constructor**
+**Output**:
+This is a no argument constructor
 
 ## Parameterized constructor
 Constructor with arguments(or you can say parameters) is known as Parameterized constructor.
