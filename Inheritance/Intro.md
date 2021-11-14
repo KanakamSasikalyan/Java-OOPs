@@ -1,5 +1,5 @@
 ## Inheritance in Java
-## Inheritence in ![image](https://user-images.githubusercontent.com/67740644/141668514-1e321302-9f9f-4e70-be91-f63382685f1b.png)
+![image](https://user-images.githubusercontent.com/67740644/141668514-1e321302-9f9f-4e70-be91-f63382685f1b.png)
 Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object. It is an important part of OOPs
 (Object Oriented programming system).
 
