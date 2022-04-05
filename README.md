@@ -19,7 +19,7 @@ Object-oriented programming System([OOPs](https://beginnersbook.com/2013/04/oops
 - [**Super Keyword in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Super-keyword)
 - [**Method overloading in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Method-Overloading)
 - [**Method overriding in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Method-Overriding)
-- **Polymorphism in Java**
+- [**Polymorphism in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Polymorphism)
 - **Types of polymorphism in Java**
 - **Static and dynamic binding**
 - **Abstract class in Java**
