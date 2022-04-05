@@ -18,7 +18,7 @@ Object-oriented programming System([OOPs](https://beginnersbook.com/2013/04/oops
 - [**Association in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Association)
 - [**Super Keyword in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Super-keyword)
 - [**Method overloading in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Method-Overloading)
-- **Method overriding in Java**
+- [**Method overriding in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Method-Overriding)
 - **Polymorphism in Java**
 - **Types of polymorphism in Java**
 - **Static and dynamic binding**
