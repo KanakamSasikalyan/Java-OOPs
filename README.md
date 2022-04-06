@@ -20,7 +20,7 @@ Object-oriented programming System([OOPs](https://beginnersbook.com/2013/04/oops
 - [**Method overloading in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Method-Overloading)
 - [**Method overriding in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Method-Overriding)
 - [**Polymorphism in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Polymorphism)
-- **Types of polymorphism in Java**
+- [**Types of polymorphism in Java**](https://github.com/KanakamSasikalyan/Java-OOPs/tree/main/Types of Polymorphism)
 - **Static and dynamic binding**
 - **Abstract class in Java**
 - **Java Abstract method with example**
